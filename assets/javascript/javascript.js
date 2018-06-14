@@ -11,21 +11,21 @@ function resetCharacters () {
   return {
     'obiWanKenobi': {
       name: 'Obi-Wan Kenobi',
-      health: 120,
+      health: 150,
       attack: 8,
       imageUrl: 'assets/images/obi-wan.jpg',
       enemyAttackBack: 15
     },
     'lukeSkywalker': {
       name: 'Luke Skywalker',
-      health: 100,
+      health: 130,
       attack: 14,
       imageUrl: 'assets/images/luke-skywalker.jpg',
       enemyAttackBack: 5
     },
     'darthSidious': {
       name: 'Darth Sidious',
-      health: 150,
+      health: 160,
       attack: 8,
       imageUrl: 'assets/images/darth-sidious.png',
       enemyAttackBack: 20
